@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Video
 
-You can download video with this link https://www.pexels.com/tr-tr/video/tennessee-de-bir-kasabanin-havadan-gorunumu-2282013/ and rename "video" then put the src\components\videos.
+You can download video with this link https://www.pexels.com/video/aerial-view-of-a-town-in-tennessee-2282013/ and rename "video" then put the src\components\videos.
